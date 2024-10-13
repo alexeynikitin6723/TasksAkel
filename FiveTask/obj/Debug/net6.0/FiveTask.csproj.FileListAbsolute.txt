@@ -1,0 +1,14 @@
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\bin\Debug\net6.0\FiveTask.exe
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\bin\Debug\net6.0\FiveTask.deps.json
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\bin\Debug\net6.0\FiveTask.runtimeconfig.json
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\bin\Debug\net6.0\FiveTask.dll
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\bin\Debug\net6.0\FiveTask.pdb
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.AssemblyInfoInputs.cache
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.AssemblyInfo.cs
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.csproj.CoreCompileInputs.cache
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.dll
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\refint\FiveTask.dll
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.pdb
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\FiveTask.genruntimeconfig.cache
+C:\Users\alexe\source\repos\ConsoleApp4\FiveTask\obj\Debug\net6.0\ref\FiveTask.dll

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThreeTask", "ThreeTask\ThreeTask.csproj", "{1BD70934-4CE9-412D-A94B-1815D4F2BB80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FiveTask", "FiveTask\FiveTask.csproj", "{563D6DA4-7769-4B11-89F3-E4E6EADF898B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BD70934-4CE9-412D-A94B-1815D4F2BB80}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BD70934-4CE9-412D-A94B-1815D4F2BB80}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BD70934-4CE9-412D-A94B-1815D4F2BB80}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BD70934-4CE9-412D-A94B-1815D4F2BB80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{563D6DA4-7769-4B11-89F3-E4E6EADF898B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{563D6DA4-7769-4B11-89F3-E4E6EADF898B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{563D6DA4-7769-4B11-89F3-E4E6EADF898B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{563D6DA4-7769-4B11-89F3-E4E6EADF898B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C11F6CA0-982C-48AE-BA8E-E68099CADF34}
+	EndGlobalSection
+EndGlobal
